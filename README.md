@@ -1,6 +1,6 @@
 # Udacity Portfolio Website
 
-### Description
+## Description
 
 A portfolio website built for the Udacity Full Stack Nanodegree, using knowledge of HTML, CSS, and JQuery.
 
