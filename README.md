@@ -13,7 +13,7 @@ A portfolio website built for the Udacity Full Stack Nanodegree, using knowledge
 
 ## License
 
-View license.txt
+View license [here](https://github.com/aapujji/Udacity-Portfolio-Website/blob/master/LICENSE)
 
 ## Contact
 
