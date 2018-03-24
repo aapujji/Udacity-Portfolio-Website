@@ -4,6 +4,8 @@
 
 A portfolio website built for the Udacity Full Stack Nanodegree, using knowledge of HTML, CSS, and JQuery.
 
+![portfolio](https://user-images.githubusercontent.com/17147762/37864804-ccec8b8a-2f49-11e8-88d1-068df3a36683.jpg)
+
 ## Setup
 
 1. Clone or download this repository.
