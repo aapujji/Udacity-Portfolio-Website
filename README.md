@@ -9,10 +9,10 @@ A portfolio website built for the Udacity Full Stack Nanodegree, using knowledge
 1. Clone or download this repository.
 2. Open index.html in your browser.
 
-### License
+## License
 
 View license.txt
 
-### Contact
+## Contact
 
 For questions, comments or suggestions please send them to aapujji@yahoo.com.
